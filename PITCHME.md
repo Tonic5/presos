@@ -1,20 +1,33 @@
+
 # Foodtech Pitchdeck
 
-170823 ~12:45p 1st test of local private gitpitch server leveraging a T5 public repo "presos"
+<!-- Slide Hierarchy -->
 
+<!-- gitpitch syntax ref https://github.com/gitpitch/gitpitch/wiki/Modular-Markdown -->
 
-- [CW local server -> gitpitch/kitchen-sink](http://gitpitch.local:9000/gitpitch/kitchen-sink)
+---?include=assets/md/01.md
+---?include=assets/md/02.md
+---?include=assets/md/03.md
+---?include=assets/md/04.md
+---?include=assets/md/05.md
+---?include=assets/md/06.md
+---?include=assets/md/07.md
+---?include=assets/md/08.md
+---?include=assets/md/09.md
+---?include=assets/md/10.md
+<!--
+  ---?include=assets/md/11.md
+  ---?include=assets/md/12.md
+  ---?include=assets/md/13.md
+  ---?include=assets/md/14.md
+  ---?include=assets/md/15.md
+-->
 
-- [Pitchdeck.com service -> gitpitch/kitchen-sink](https://gitpitch.com/gitpitch/kitchen-sink)
-
----
-
-- [CW local server -> Tonic5/presos/foodtech-pitchdeck](http://gitpitch.local:9000/Tonic5/presos/foodtech-pitchdeck)
-
-- [Pitchdeck.com service -> Tonic5/presos/foodtech-pitchdeck](https://gitpitch.com/Tonic5/presos/foodtech-pitchdeck)
-
-+++
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
+<!-- filesystem structure -->
+<!--
+assets/
+  css/
+  img/
+  md/
+-->
 
