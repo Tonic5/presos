@@ -1,5 +1,5 @@
 
-# OPPORTUNITY
+## OPPORTUNITY
 
 market research + data sources
 new market, or wedge? growth rate (and why?), adjacent markets?

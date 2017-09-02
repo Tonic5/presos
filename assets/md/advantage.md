@@ -1,5 +1,5 @@
 
-# COMPETITIVE ADVANTAGE
+## COMPETITIVE ADVANTAGE
 
 artic structural advantages we're building
 

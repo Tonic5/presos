@@ -1,5 +1,5 @@
 
-# Funding + Use of Proceeds
+## Funding + Use of Proceeds
 
 rationalize capital reqs and use of funds
 $cash amt want and need, ues of proceeds, hires? 2-3 milestones hope to achieve before next round, what prod/mkt fit looks like, how much runway it gives us

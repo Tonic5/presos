@@ -1,7 +1,5 @@
 
-solution.md
-
-# Solution
+## Solution
 
   product ("picture/video/demo ~if asked~") -- DEMO! VERTICAL SLIDES, IFRAME, WHATEVER. SHOW IT OFF!
 

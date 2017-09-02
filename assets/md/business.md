@@ -1,5 +1,5 @@
 
-# Business Model
+## Business Model
 
   prove can or will gen revenue!
   ? how we make money? willingness to pay? 
