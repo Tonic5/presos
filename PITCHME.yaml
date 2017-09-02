@@ -1,0 +1,2 @@
+theme : sky # black, moon, night, beige, sky, and white; default == white 
+transition: convex # convex, concave, default, fade, none, slide and zoom; default == slide

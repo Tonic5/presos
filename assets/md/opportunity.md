@@ -1,6 +1,4 @@
 
-opportunity.md
-
 # OPPORTUNITY
 
 market research + data sources

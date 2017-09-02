@@ -1,9 +1,6 @@
 # presos
 Public presentations, one per _branch_:  
-* foodtech-pitchdeck
+- // foodtech-pitchdeck (obsolete)
+- *`cft-pitchdeck-ff`* (170902 440p)
 
-cf docs/devnotes.md for WIP content (170828 ~642p)
-
-## Kitchen-sink
-- [CW local server -> gitpitch/kitchen-sink](http://gitpitch.local:9000/gitpitch/kitchen-sink)  
-- [Pitchdeck.com service -> gitpitch/kitchen-sink](https://gitpitch.com/gitpitch/kitchen-sink)  
+## [CFT PITCHDECK for Friends + Family, Sept 2017](https://gitpitch.com/pitchme/slideshow/github/Tonic5/presos/cft-pitchdeck-ff)

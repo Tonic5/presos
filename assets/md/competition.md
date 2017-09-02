@@ -1,6 +1,4 @@
 
-competition.md
-
 # COMPETITION
 
 direct + indirect compet, alternatives, strengths+weaknesses, how large players (rev, mkt cap, and how valued today)

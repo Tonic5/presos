@@ -1,6 +1,4 @@
 
-timing.md
-
 # TIMING - WHY NOW?
 
 macro tailwinds, why not possible/done before? waves surfing? tech adv enabling us?
